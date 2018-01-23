@@ -84,11 +84,11 @@ var data =
           Id: 0003
       },
       {
-          Name: "eBenefits Claims Assistance",
-          Picture: "ebenefits-logo.gif",
-          Alt: "eBenefits Claims Assistance Logo",
-          Snippet: "",
-          Link: "https://www.ebenefits.va.gov/ebenefits/homepage",
+          Name: "Post 206 Google Drive",
+          Picture: "logo.png",
+          Alt: "Post 206 Logo",
+          Snippet: "Take a look at our agenda, who attended, and the meeting minutes from each meeting of Post 206!",
+          Link: "https://drive.google.com/open?id=1gIJ3caeAKDXDYzixx-gXqRo7T2rUADHI",
           Id: 0004
       },
       {
@@ -106,7 +106,31 @@ var data =
           Snippet: "Give an Hour™ is a nonprofit 501(c)(3), founded in September 2005 by Dr. Barbara Van Dahlen, a psychologist in the Washington, D.C., area. The organization’s mission is to harness the expertise and generosity of volunteer mental health professionals capable of responding to both acute and chronic conditions that arise within our society. ",
           Link: "https://www.giveanhour.org",
           Id: 0006
-      }
+      },
+        {
+            Name: "Seattle Vet Center",
+            Picture: "vet_center_logo2.png",
+            Alt: "Seattle Vet Center Logo",
+            Snippet: "Vet Centers across the country provide a broad range of counseling, outreach, and referral service to combat Veterans, MST victims, and their families. This is a free of cost care and is strictly confidential, the information is not shared with the VA.",
+            Link: "https://www.va.gov/directory/guide/facility.asp?ID=474",
+            Id: 0007
+        },
+        {
+            Name: "WDVA PTSD Providers",
+            Picture: "ptsd_thing.jpg",
+            Alt: "PTSD Support",
+            Snippet: "The Department of Veterans Affairs (Washington) has an initiative within King County and abroad that provides PTSD counseling services for those that served during a period of war. This is a free of cost service, and the list linked provides you the information to contact the counselors and psychologist.",
+            Link: "http://www.dva.wa.gov/sites/default/files/_10%20October%202017_PTSD_Provider_List_0.pdf",
+            Id: 0008
+        },
+        {
+            Name: "Ballard-Eagleson VFW 3063",
+            Picture: "vfw.png",
+            Alt: "Ballard-Eagleson VFW Logo",
+            Snippet: "The Ballard-Eagleson VFW Post 3063 is one of the oldest VSOs in the Seattle area. Not only are they a post of amazing individuals, they are one of the few post with a physical home. They house a service officer, socials, and business meetings for multiple organizations. We are proud to partner with them on various events",
+            Link: "http://vfwseattle.org/",
+            Id: 0009
+        }
     ],
     NewsItems: [
       {
